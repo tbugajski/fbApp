@@ -1,0 +1,9 @@
+{
+    "imie": "tomek",
+    "nazwisko": "nowak",
+    "wiek": 20,
+    "miejscowosc": "wroclaw",
+    "ulica": "polna",
+    "nr_domu": 1,
+    "zwierzaki": ["pies","kot"]
+}
